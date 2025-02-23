@@ -46,7 +46,7 @@ A Streamlit application that simulates a full-service recruitment team using mul
 2. **Configure API Keys**
    - OpenAI API key for GPT-4o access
    - Zoom API credentials (Account ID, Client ID, Client Secret)
-   - Email App Password of Recruiter's Email
+   - Email App Password of Recruiter's Email.
 
 3. **Run the Application**
    ```bash
