@@ -12,6 +12,9 @@ A Streamlit application that simulates a full-service recruitment team using mul
 - Scheduling Coordinator Agent: Manages interview scheduling and coordination
 - Each agent has specific expertise and collaborates for comprehensive recruitment
 
+![High-Level Architecture Diagram](./High-Level%20Architecture%20Diagram.svg)
+
+
 
 #### End-to-End Recruitment Process
 - Automated resume screening and analysis
