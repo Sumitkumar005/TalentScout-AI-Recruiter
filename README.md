@@ -10,7 +10,7 @@ A Streamlit application that simulates a full-service recruitment team using mul
 - Technical Recruiter Agent: Analyzes resumes and evaluates technical skills
 - Communication Agent: Handles professional email correspondence
 - Scheduling Coordinator Agent: Manages interview scheduling and coordination
-- Each agent has specific expertise and collaborates for comprehensive recruitment
+- Each agent has specific expertise and collaborates for comprehensive recruitment.
 
 ![High-Level Architecture Diagram](./High-Level%20Architecture%20Diagram.svg)
 
