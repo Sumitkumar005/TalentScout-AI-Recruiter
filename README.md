@@ -62,7 +62,7 @@ A Streamlit application that simulates a full-service recruitment team using mul
   - Skills matching algorithm
   - Experience verification
   - Technical assessment
-  - Selection decision making
+  - Selection decision making.
 
 - **Email Communication Agent**
   - Professional email drafting
